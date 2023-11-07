@@ -1,0 +1,7 @@
+{
+	"name": "NaniSelfIR",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "Creating Integration Runtime for accessing Local SQL server"
+	}
+}

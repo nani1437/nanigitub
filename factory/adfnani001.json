@@ -1,0 +1,9 @@
+{
+	"name": "adfnani001",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "71ca1457-819c-40b8-aee0-40b2819b60db",
+		"tenantId": "f174cdae-0cba-41b1-bab5-419f7edd641c"
+	}
+}
